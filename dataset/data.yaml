@@ -1,0 +1,7 @@
+train: WSMK\images\train
+val: WSMK\images\val
+test: WSMK\images\test
+
+nc: 1
+
+names: ['cigarette']
